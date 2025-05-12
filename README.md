@@ -23,13 +23,11 @@
 ```bash
 pip install -U discord.py
 pip install pynacl 
-
+---
 
 ## روابط التواصل
 
 - 🌐 GitHub: [Cloes](https://github.com/by-iNawaf)
 - 💬 Discord: [discord.gg/Nawaf](https://discord.gg/Ay4cqudf9r)
-
----
 
 **🤖 Discord Bot by [Nawaf]([https://github.com/by-iNawaf])** 
