@@ -26,7 +26,10 @@ pip install pynacl
 
 ## روابط التواصل
 
-- 🌐 GitHub: [Cloes](https://github.com/by-iNawaf)
+- 🌐 GitHub: [Cloes](https://github.com/By-iNawaf)
 - 💬 Discord: [discord.gg/Nawaf](https://discord.gg/Ay4cqudf9r)
 
-**🤖 Discord Bot by [Nawaf]([https://github.com/by-iNawaf])** 
+---
+
+**🤖 Discord Bot by [Nawaf](https://github.com/By-iNawaf)**  
+جميع الحقوق محفوظة © 2025
